@@ -1,0 +1,16 @@
+class Colors:
+    RESET = "\033[0m"
+    RED = "\033[91m"
+    DARK_RED = "\033[31m"
+    GREEN = "\033[92m"
+    YELLOW = "\033[93m"
+    BLUE = "\033[94m"
+    CYAN = "\033[96m"
+    WHITE = "\033[97m"
+    BOLD = "\033[1m"
+
+    TITLE = "\033[1;91m"
+    MENU = "\033[91m"
+    INFO = "\033[97m"
+    SUCCESS = "\033[92m"
+    ERROR = "\033[1;31m"
