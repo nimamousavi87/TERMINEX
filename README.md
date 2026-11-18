@@ -1,8 +1,83 @@
-<div align="center">
+<div align="center">🔴 TERMINEX
 
-[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
+Cross-Platform Diagnostic & Security Toolkit
 
-[![Instagram](https://img.shields.io/badge/Instagram-nima.001n-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nima.001n)
-[![Telegram](https://img.shields.io/badge/Telegram-nima__001-26A5E4?logo=telegram&logoColor=white)](https://t.me/nima_001)
+"🇬🇧 English" (README.md) | "🇮🇷 فارسی" (README.fa.md)
 
-</div>
+""Instagram" (https://img.shields.io/badge/Instagram-nima.001n-E4405F?logo=instagram&logoColor=white)" (https://instagram.com/nima.001n)
+""Telegram" (https://img.shields.io/badge/Telegram-nima__001-26A5E4?logo=telegram&logoColor=white)" (https://t.me/nima_001)
+
+"Python" (https://img.shields.io/badge/Python-3.x-blue)
+"Version" (https://img.shields.io/badge/Version-1.0.0-red)
+"Platform" (https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-green)
+
+</div>---
+
+✨ About TERMINEX
+
+TERMINEX is a lightweight, cross-platform Python toolkit designed for network diagnostics, system information, security utilities, and developer tools.
+
+🌐 Network Tools
+
+- Local IP Address
+- Internet Connection Check
+- Ping Tool
+- Website Checker
+- DNS Lookup
+- SSL Certificate Checker
+
+💻 System Tools
+
+- System Information
+- Storage Information
+- Python Information
+
+🔐 Security Tools
+
+- Secure Password Generator
+- Password Strength Checker
+
+🛠 Developer Tools
+
+- Python Version
+- Current Date & Time
+- Environment Information
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/nimamousavi87/TERMINEX.git
+
+Enter the project directory:
+
+cd TERMINEX
+
+Run TERMINEX:
+
+python main.py
+
+📱 Supported Platforms
+
+- Android (Termux)
+- Windows
+- Linux
+
+Python 3 is required.
+
+👨‍💻 Developer
+
+NIMA
+
+- Instagram: "@nima.001n" (https://instagram.com/nima.001n)
+- Telegram: "@nima_001" (https://t.me/nima_001)
+
+⚠️ Disclaimer
+
+TERMINEX is intended for educational purposes and authorized system diagnostics only.
+
+Always obtain permission before testing systems or networks you do not own.
+
+---
+
+TERMINEX v1.0.0 — Built for learning, diagnostics, and development.
